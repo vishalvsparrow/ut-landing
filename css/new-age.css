@@ -66,26 +66,19 @@ background-color: #3697dc;
 
 .footer-block {
 
-
 text-align: center;
 
 }
 
 .footer-block-1 {
 
-padding-top: 60px;
 max-width: 100%;
 margin-left: auto;
 margin-right: auto;
 
 }  
 
-.footer-block-1 a {
 
-
-
-
-} 
 
 .center-aditya {
 
@@ -132,7 +125,7 @@ padding-top: 100px;
 
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.5;
   margin-bottom: 20px;
   font-weight: 300 }
@@ -242,14 +235,22 @@ header.masthead {
       padding-bottom: 0; }
       header.masthead .header-content {
         margin-bottom: 0;
-        text-align: center;
-        padding-top: 3%; 
+        text-align: center; 
         padding-bottom: 1%;
   }
         header.masthead .header-content h1 {
           font-size: 50px; }
       header.masthead .device-container {
-        max-width: 325px; } }
+        max-width: 325px; }
+
+
+    .pad-top-5 {
+
+      margin-top: 5%;
+
+      }
+
+    }
 
 section.download {
   position: relative;
