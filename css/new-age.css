@@ -75,6 +75,8 @@ text-align: center;
 max-width: 100%;
 margin-left: auto;
 margin-right: auto;
+margin-top: 10%;
+
 
 }  
 
@@ -119,6 +121,13 @@ padding-top: 4.5%;
 padding-top: 100px;
 
   }
+
+.footer-block-1 {
+
+  margin-top: 11px; 
+
+
+}  
 
 
 }
@@ -251,6 +260,9 @@ header.masthead {
       }
 
     }
+
+
+
 
 section.download {
   position: relative;
