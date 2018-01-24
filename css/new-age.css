@@ -75,11 +75,17 @@ text-align: center;
 max-width: 100%;
 margin-left: auto;
 margin-right: auto;
-margin-top: 10%;
+margin-top: 5%;
 
 
 }  
 
+.ad-copy {
+
+text-align: left !important;
+
+
+} 
 
 
 .center-aditya {
@@ -94,7 +100,7 @@ transform: translate(-50%, -50%);
 .center-vishal {
 
 justify-content: center;
-padding-top: 4.5%;
+padding-top: 7%;
 
 }
 
@@ -239,7 +245,7 @@ header.masthead {
   @media (min-width: 992px) {
     header.masthead {
       height: 100vh;
-      min-height: 775px;
+      min-height: 992px;
       padding-top: 0;
       padding-bottom: 0; }
       header.masthead .header-content {
@@ -404,5 +410,3 @@ footer {
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0; }
-
-
